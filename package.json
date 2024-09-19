@@ -2,7 +2,7 @@
   "name": "react-cicd",
   "private": true,
   "version": "0.0.0",
-  "homepage": "https://mahatohariom.github.io/react-cicd",
+  "homepage": "https://mahatohariom.github.io/react-cicd/",
   "type": "module",
   "scripts": {
     "dev": "vite",
